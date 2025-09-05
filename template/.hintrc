@@ -1,0 +1,14 @@
+{
+  "connector": {
+    "name": "local"
+  },
+  "extends": ["development"],
+  "formatters": ["html", "summary"],
+  "hints": {
+    "apple-touch-icons": "off",
+    "button-type": "off",
+    "disown-opener": "off",
+    "meta-charset-utf-8": "off",
+    "meta-viewport": "off"
+  }
+}
